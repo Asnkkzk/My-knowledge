@@ -52,7 +52,6 @@ public class LCS最长公共子序列 {
             System.out.print(s[i]);
         }
     }
-
     public static void main(String[] args) {
         String s1=in.next();
         String s2=in.next();
@@ -60,5 +59,8 @@ public class LCS最长公共子序列 {
 //        System.out.println("s2->"+s2+"<-s2");
         LCS(s1,s2);
         //getLCS(s1,s2);
+
+
+        //ghjhjkk
     }
 }
